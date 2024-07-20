@@ -1,5 +1,7 @@
 ## Micronaut 4.5.0 Documentation
 
+Initial Repo is loosely based on [this guide](https://guides.micronaut.io/latest/micronaut-metrics-gradle-java.html#metrics-configuration)
+
 - [User Guide](https://docs.micronaut.io/4.5.0/guide/index.html)
 - [API Reference](https://docs.micronaut.io/4.5.0/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/4.5.0/guide/configurationreference.html)
